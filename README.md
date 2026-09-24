@@ -1,5 +1,4 @@
-selim@debian:~/Desktop/pixelsmash-cve-2026-8461$ cat README.md
-# CVE-2026-8461 — PixelSmash
+#CVE-2026-8461 — PixelSmash
 
 A working proof-of-concept for CVE-2026-8461, an out-of-bounds write in
 FFmpeg's MagicYUV decoder. Includes a lab harness that builds a vulnerable
