@@ -1,0 +1,22 @@
+# Generated exploit AVIs — never commit
+*.avi
+lab/vids/
+
+# FFmpeg source tree and build artifacts
+lab/ffmpeg-src/
+player/build/
+*.o
+*.a
+*.so
+
+# Calibration output
+calibration*.json
+
+# Logs
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
